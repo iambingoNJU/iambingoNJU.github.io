@@ -1,8 +1,5 @@
 
-## Welcome to bingo's blog
+## [C Macro Usage](blog/001-cmacro.md)
 
-## Contact me
+## Contact
 
-## problem
-* p1
-* p2
