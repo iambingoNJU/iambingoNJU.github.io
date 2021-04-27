@@ -72,10 +72,10 @@ ninja -C  out/Default2019
 然后运行一个web客户端实例`src/examples/peerconnection/server/server_test.html`和一个windows客户端实例`peerconnection_client.exe`，并连接上peerconnection_server，windows客户端能看到web端的实例，选中web端后输入回车便可以和web端进行实时音视频通话：
 ![peer client](res/peerclient.png)
 
+到此，你已经成功编译webrtc代码并运行demo，接下来便可进入源码的学习了。
+
 ## 参考文档
 
 - https://blog.csdn.net/Dreamandpassion/article/details/108271894
 - https://webrtc.googlesource.com/src/+/refs/heads/master/docs/native-code/development/prerequisite-sw/index.md
 - https://webrtc.googlesource.com/src/+/refs/heads/master/docs/native-code/development/index.md
-
-到此，你已经成功编译webrtc代码并运行demo，接下来便可进入源码的学习了。
